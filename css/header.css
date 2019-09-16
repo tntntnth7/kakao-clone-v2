@@ -25,3 +25,7 @@
   font-size: 20px;
   margin-right: 20px;
 }
+
+.header .red__text {
+  color: red;
+}
